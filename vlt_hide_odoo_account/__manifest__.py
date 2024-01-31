@@ -13,7 +13,7 @@
     'description': """ Remove Documentation, Support, My Odoo.com account from the top right corner """,
 
     'depends': ['base'],
-    'qweb': ['static/src/xml/*.xml'],
+    'qweb': ['static/src/xml/base.xml'],
 
     'installable': True,
     'application': False,
