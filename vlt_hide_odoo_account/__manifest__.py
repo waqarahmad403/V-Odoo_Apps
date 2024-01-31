@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Hide Odoo Brand In User Account Menu",
+    'name': "Hide Odoo From User Account Menu",
     'version': '13.0.1.0',
     'license': 'LGPL-3',
     'category': 'Tools',
