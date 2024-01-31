@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_vlt_hide_odoo_account_vlt_hide_odoo_account,vlt_hide_odoo_account.vlt_hide_odoo_account,model_vlt_hide_odoo_account_vlt_hide_odoo_account,base.group_user,1,1,1,1
